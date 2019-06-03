@@ -57,7 +57,7 @@ However, in the event that installation _does_ fail (**or if you are on a platfo
 	```bash
 	sudo apt-get install build-essential git
 	sudo apt-get install gcc-4.8 g++-4.8 && export CXX=g++-4.8
-	sudo apt-get install sudo apt install libusb-1.0-0 libusb-1.0-0-dev
+	sudo apt-get install libusb-1.0-0 libusb-1.0-0-dev libudev-dev
 	```
   * Install a recent version of Node.js.:
 	```bash
